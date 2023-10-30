@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedNoor1496
 - 👀 I’m interested in coding 
-- 🌱 I’m currently working as a mobile front-end developer 
-- 💞️ I’m looking to collaborate on anythig joyful
+- 🌱 I’m currently working as a mobile full-stack developer 
+- 💞️ I'm looking to collaborate on anything useful and joyful
 - 📫 How to reach me  mohammednoor1496@gmail.com
 
 <!---
